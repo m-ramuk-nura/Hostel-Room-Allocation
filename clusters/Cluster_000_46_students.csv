@@ -1,0 +1,47 @@
+Timestamp,Name:,Roll Number:,Department,What is your sleeping pattern?,What is your study habit preference?,What kind of sleeping environment do you prefer?,What is your food preference?,Are you comfortable sharing a room with someone with a different food habit?,Do you consider yourself more of an:,Do you have any health conditions or allergies your roommate should know?  (If no enter 'Nil'),How open are you to adjusting if you don’t get roomate of similar choice?,Cluster,Health_Condition_Rank,room_number
+10/23/2025 12:01:23,Harish.G,235,Ba economics ,Before 10 PM,I prefer studying in silence,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Nil,Not flexible,0,-1,93
+10/09/2025 04:24:00,Ragul Deep,24CSE290,CSE,Before 10 PM,I prefer studying in silence,"Flexible, can adjust",Non-Vegetarian,Yes,Ambivert,Asthma,Somewhat flexible,0,1,1
+10/09/2025 09:39:00,Tharun Raj,24ECE465,ECE,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,No,Ambivert,Asthma,Somewhat flexible,0,1,1
+10/22/2025 03:55:00,Ragul S,24ECE300,ECE,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,Diabetes,Somewhat flexible,0,3,1
+10/03/2025 10:12:00,Pandi Kumar,24IT134,IT,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,No,Very flexible,0,-1,1
+10/16/2025 11:50:00,Suresh Babu,24MEC363,Mechatronics,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,No,Somewhat flexible,0,-1,174
+10/04/2025 07:32:00,Ramesh V,24EIE457,EIE,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,No,Ambivert,Nil,Somewhat flexible,0,-1,174
+10/22/2025 02:39:00,Logesh Kumar,24MEC483,Mechanical,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,No,Ambivert,Diabetes,Somewhat flexible,0,3,141
+10/20/2025 16:30:00,Gopi Nath,24EEE162,EEE,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,No,Somewhat flexible,0,-1,141
+10/02/2025 14:45:00,Naveen Raj,24EIE266,EIE,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",No preference,Yes,Extrovert,Nil,Not flexible,0,-1,141
+10/13/2025 23:20:00,Ragul S,24ECE960,ECE,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,Dust allergy,Very flexible,0,2,90
+10/06/2025 22:41:00,Harish G,24CHE698,Chemistry,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Ambivert,No,Very flexible,0,-1,90
+10/15/2025 18:16:00,Gokul Raj,24CSE139,CSE,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,NIL,Very flexible,0,-1,90
+10/17/2025 04:18:00,Kumaravel S,24MEC646,Mechatronics,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,,Not flexible,0,-1,90
+10/06/2025 18:11:00,Ragul Raj,24CSE465,CSE,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,No,Somewhat flexible,0,-1,141
+10/10/2025 11:09:00,Prasanna Kumar,24BIO552,Biotechnology,Before 10 PM,I prefer studying in silence,"Flexible, can adjust",Non-Vegetarian,No,Introvert,,Somewhat flexible,0,-1,174
+10/09/2025 18:22:00,Sathish Kumar,24AIM481,AIML,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,No,Very flexible,0,-1,174
+10/01/2025 08:11:00,Ajay Kumar,24BIO657,Biotechnology,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Dust allergy,Not flexible,0,2,91
+10/17/2025 06:19:00,Saravanan M,24AIM833,AIML,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,No,Somewhat flexible,0,-1,91
+10/14/2025 08:42:00,Ramesh V,24EIE762,EIE,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Ambivert,NIL,Somewhat flexible,0,-1,91
+10/07/2025 05:03:00,Vasanth Kumar,24AIM710,AIML,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,Dust allergy,Very flexible,0,2,91
+10/05/2025 08:46:00,Prem Kumar,24PHY707,Physics,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",No preference,Yes,Introvert,Nil,Somewhat flexible,0,-1,175
+10/05/2025 17:22:00,Sivakumar P,24AIM344,AIML,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",No preference,Yes,Introvert,No,Very flexible,0,-1,175
+10/10/2025 07:13:00,Prasanna Kumar,24MEC500,Mechatronics,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",No preference,Yes,Introvert,Asthma,Very flexible,0,1,2
+10/21/2025 02:02:00,Prem Kumar,24EEE315,EEE,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",No preference,Yes,Ambivert,Asthma,Very flexible,0,1,2
+10/19/2025 20:13:00,Anbarasan,24ECE829,ECE,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,Nil,Very flexible,0,-1,2
+10/13/2025 10:23:00,Murugan A,24MEC308,Mechatronics,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,,Somewhat flexible,0,-1,2
+10/19/2025 05:07:00,Ganesh Kumar,24ECE220,ECE,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,Dust allergy,Very flexible,0,2,92
+10/18/2025 22:32:00,Madhan Kumar,24IT141,IT,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Dust allergy,Somewhat flexible,0,2,92
+10/03/2025 13:14:00,Sathya Narayanan,24AIM828,AIML,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Extrovert,Asthma,Very flexible,0,1,3
+10/12/2025 07:57:00,Nandhakumar,24EIE873,EIE,Before 10 PM,I prefer studying in silence,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Nil,Very flexible,0,-1,3
+10/12/2025 05:45:00,Naveen Raj,24CHE721,Chemistry,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Nil,Somewhat flexible,0,-1,3
+10/20/2025 11:30:00,Kumaravel S,24MEC399,Mechanical,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,Diabetes,Very flexible,0,3,3
+10/05/2025 06:54:00,Logesh Kumar,24AIM468,AIML,Before 10 PM,I prefer studying in silence,"Flexible, can adjust",Non-Vegetarian,Yes,Ambivert,Asthma,Very flexible,0,1,4
+10/07/2025 04:26:00,Senthil Kumar,24MEC616,Mechanical,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,NIL,Very flexible,0,-1,4
+10/06/2025 06:33:00,Madhan Kumar,24MEC220,Mechatronics,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,Nil,Very flexible,0,-1,4
+10/19/2025 04:53:00,Selvakumar R,24AIM911,AIML,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Ambivert,Asthma,Somewhat flexible,0,1,4
+10/01/2025 19:10:00,Hariharan,24CSE992,CSE,Before 10 PM,I prefer studying in silence,"Flexible, can adjust",Non-Vegetarian,Yes,Ambivert,Diabetes,Somewhat flexible,0,3,92
+10/07/2025 23:52:00,Surya Narayanan,24EEE650,EEE,Before 10 PM,I prefer studying in silence,"Flexible, can adjust",Non-Vegetarian,Yes,Ambivert,Diabetes,Somewhat flexible,0,3,92
+10/03/2025 01:51:00,Sivakumar P,24IT637,IT,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Dust allergy,Very flexible,0,2,93
+10/19/2025 22:38:00,Vijay Kumar,24ECE434,ECE,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Ambivert,Asthma,Very flexible,0,1,5
+10/12/2025 20:21:00,Jagadeesh,24AIM415,AIML,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Diabetes,Not flexible,0,3,5
+10/16/2025 03:49:00,Ashok Kumar,24CHE965,Chemistry,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Asthma,Somewhat flexible,0,1,5
+10/12/2025 08:39:00,Dinesh S,24EEE988,EEE,Before 10 PM,I prefer studying in silence,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,,Somewhat flexible,0,-1,5
+10/05/2025 10:56:00,Siva Prakash,24MEC787,Mechanical,Before 10 PM,I prefer group study,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Dust allergy,Somewhat flexible,0,2,93
+10/17/2025 19:50:00,Kishore R,24MEC968,Mechatronics,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,Nil,Very flexible,0,-1,93

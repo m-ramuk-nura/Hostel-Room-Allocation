@@ -1,0 +1,36 @@
+Timestamp,Name:,Roll Number:,Department,What is your sleeping pattern?,What is your study habit preference?,What kind of sleeping environment do you prefer?,What is your food preference?,Are you comfortable sharing a room with someone with a different food habit?,Do you consider yourself more of an:,Do you have any health conditions or allergies your roommate should know?  (If no enter 'Nil'),How open are you to adjusting if you don’t get roomate of similar choice?,Cluster,Health_Condition_Rank,room_number
+10/17/2025 10:33:00,Tharun Raj,24ECE301,ECE,Before 10 PM,I prefer group study,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Nil,Very flexible,6,-1,105
+10/18/2025 14:58:00,Nandhakumar,24EEE805,EEE,10 PM – 12 AM,I prefer group study,"Complete silence, Complete darkness",Vegetarian,Yes,Introvert,Diabetes,Very flexible,6,3,105
+10/02/2025 07:43:00,Ramesh V,24CHE377,Chemistry,Before 10 PM,I prefer group study,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Extrovert,Dust allergy,Very flexible,6,2,102
+10/12/2025 03:32:00,Ragul S,24ECE129,ECE,Before 10 PM,I prefer group study,"Complete silence, Complete darkness",Vegetarian,Yes,Ambivert,Asthma,Very flexible,6,1,30
+10/21/2025 13:56:00,Prasanna Kumar,24EIE696,EIE,After 12 AM,I prefer studying in silence,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Introvert,Diabetes,Very flexible,6,3,30
+10/02/2025 04:45:00,Suresh Babu,24ECE515,ECE,10 PM – 12 AM,I prefer studying in silence,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Nil,Somewhat flexible,6,-1,30
+10/16/2025 20:00:00,Sundar P,24AIM386,AIML,After 12 AM,I prefer studying in silence,"Complete silence, Complete darkness",Vegetarian,No,Ambivert,NIL,Very flexible,6,-1,30
+10/02/2025 16:44:00,Ajith Kumar,24CHE775,Chemistry,Before 10 PM,I’m okay with mild background noise/music,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,,Somewhat flexible,6,-1,102
+10/17/2025 13:28:00,Anbarasan,24EIE781,EIE,Before 10 PM,I prefer group study,"Complete silence, Complete darkness",Vegetarian,Yes,Ambivert,,Very flexible,6,-1,102
+10/12/2025 08:13:00,Mohan Das,24MEC120,Mechanical,10 PM – 12 AM,I prefer group study,"Complete silence, Complete darkness",Vegetarian,Yes,Ambivert,Asthma,Very flexible,6,1,31
+10/13/2025 08:16:00,Aravind Raj,24BIO298,Biotechnology,Before 10 PM,I’m okay with mild background noise/music,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Dust allergy,Somewhat flexible,6,2,31
+10/10/2025 23:28:00,Muthukumar S,24PHY335,Physics,10 PM – 12 AM,I prefer group study,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Nil,Somewhat flexible,6,-1,31
+10/18/2025 04:42:00,Lokeshwaran,24MEC103,Mechanical,Before 10 PM,I prefer studying in silence,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Dust allergy,Somewhat flexible,6,2,31
+10/17/2025 12:34:00,Mohanraj K,24BIO669,Biotechnology,After 12 AM,I prefer group study,Complete silence,Vegetarian,No,Ambivert,Diabetes,Somewhat flexible,6,3,102
+10/12/2025 16:59:00,Bala Subramani,24MEC947,Mechanical,After 12 AM,I prefer studying in silence,"Complete silence, Complete darkness",Vegetarian,No,Introvert,Diabetes,Somewhat flexible,6,3,152
+10/16/2025 09:52:00,Nandhakumar,24MEC812,Mechatronics,Before 10 PM,I prefer group study,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Dust allergy,Not flexible,6,2,103
+10/07/2025 08:53:00,Mohanraj K,24CSE922,CSE,10 PM – 12 AM,I prefer studying in silence,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Dust allergy,Somewhat flexible,6,2,103
+10/20/2025 06:30:00,Sivaranjan,24MEC823,Mechatronics,10 PM – 12 AM,I prefer group study,"Complete silence, Complete darkness",Vegetarian,Yes,Introvert,NIL,Somewhat flexible,6,-1,103
+10/05/2025 10:08:00,Varun Kumar,24EEE208,EEE,Before 10 PM,I prefer group study,Complete silence,Vegetarian,Yes,Extrovert,Nil,Very flexible,6,-1,103
+10/04/2025 16:33:00,Senthil Kumar,24BIO459,Biotechnology,After 12 AM,I’m okay with mild background noise/music,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Introvert,Dust allergy,Very flexible,6,2,104
+10/13/2025 15:01:00,Sanjay Kumar,24AIM459,AIML,After 12 AM,I prefer studying in silence,"Complete silence, Okay with some light, Complete darkness",Vegetarian,No,Ambivert,Dust allergy,Somewhat flexible,6,2,104
+10/04/2025 00:35:00,Bala Subramani,24EIE778,EIE,Before 10 PM,I’m okay with mild background noise/music,"Complete silence, Complete darkness",Vegetarian,No,Ambivert,Asthma,Very flexible,6,1,32
+10/11/2025 05:43:00,Mohanraj K,24PHY772,Physics,After 12 AM,I prefer studying in silence,"Complete silence, Complete darkness",Vegetarian,Yes,Ambivert,,Somewhat flexible,6,-1,32
+10/13/2025 22:38:00,Yuvaraj,24EIE296,EIE,10 PM – 12 AM,I prefer group study,"Complete silence, Complete darkness",Vegetarian,No,Introvert,Nil,Very flexible,6,-1,32
+10/02/2025 01:07:00,Arun Kumar,24IT976,IT,After 12 AM,I prefer studying in silence,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Nil,Somewhat flexible,6,-1,32
+10/01/2025 20:32:00,Manikandan S,24IT543,IT,After 12 AM,I prefer group study,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Introvert,Asthma,Very flexible,6,1,33
+10/09/2025 09:25:00,Selvakumar R,24EIE513,EIE,Before 10 PM,I prefer group study,"Complete silence, Okay with some light, Complete darkness",Vegetarian,No,Introvert,NIL,Very flexible,6,-1,33
+10/04/2025 09:33:00,Manikandan S,24CHE508,Chemistry,Before 10 PM,I’m okay with mild background noise/music,"Complete silence, Complete darkness",Vegetarian,Yes,Introvert,Asthma,Somewhat flexible,6,1,33
+10/06/2025 14:51:00,Sathish K,24CHE407,Chemistry,10 PM – 12 AM,I prefer studying in silence,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Dust allergy,Somewhat flexible,6,2,33
+10/19/2025 13:32:00,Pandi Kumar,24MEC453,Mechanical,After 12 AM,I prefer studying in silence,"Complete silence, Complete darkness",Vegetarian,Yes,Extrovert,Diabetes,Very flexible,6,3,104
+10/08/2025 09:49:00,Krishna Raj,24PHY420,Physics,After 12 AM,I prefer studying in silence,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Dust allergy,Somewhat flexible,6,2,104
+10/15/2025 00:22:00,Sathish Kumar,24ECE311,ECE,Before 10 PM,I prefer studying in silence,Complete silence,Vegetarian,No,Introvert,No,Somewhat flexible,6,-1,152
+10/08/2025 04:51:00,Gopi Nath,24EIE808,EIE,Before 10 PM,I’m okay with mild background noise/music,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,NIL,Somewhat flexible,6,-1,152
+10/05/2025 02:16:00,Ashok Kumar,24MEC907,Mechanical,After 12 AM,I prefer group study,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Dust allergy,Somewhat flexible,6,2,105
+10/17/2025 17:43:00,Balaji D,24EIE248,EIE,Before 10 PM,I prefer studying in silence,"Complete silence, Okay with some light, Complete darkness",Vegetarian,Yes,Ambivert,Nil,Somewhat flexible,6,-1,105

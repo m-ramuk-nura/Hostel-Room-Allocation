@@ -1,0 +1,44 @@
+Timestamp,Name:,Roll Number:,Department,What is your sleeping pattern?,What is your study habit preference?,What kind of sleeping environment do you prefer?,What is your food preference?,Are you comfortable sharing a room with someone with a different food habit?,Do you consider yourself more of an:,Do you have any health conditions or allergies your roommate should know?  (If no enter 'Nil'),How open are you to adjusting if you don’t get roomate of similar choice?,Cluster,Health_Condition_Rank,room_number
+10/16/2025 03:55:00,Ashok Kumar,24EIE596,EIE,10 PM – 12 AM,I prefer group study,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,NIL,Very flexible,11,-1,120
+10/19/2025 14:18:00,Ravi M,24PHY894,Physics,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Vegetarian,Yes,Introvert,Nil,Somewhat flexible,11,-1,120
+10/07/2025 13:11:00,Sanjay Kumar,24MEC217,Mechatronics,10 PM – 12 AM,I prefer group study,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,Dust allergy,Very flexible,11,2,117
+10/18/2025 05:53:00,Kishore R,24AIM988,AIML,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,No,Somewhat flexible,11,-1,117
+10/17/2025 08:26:00,Madhan Kumar,24MEC366,Mechanical,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,,Somewhat flexible,11,-1,117
+10/16/2025 07:08:00,Kamalakannan,24BIO369,Biotechnology,10 PM – 12 AM,I prefer group study,"Flexible, can adjust",Vegetarian,Yes,Ambivert,Asthma,Somewhat flexible,11,1,49
+10/19/2025 06:59:00,Murugan A,24EEE960,EEE,10 PM – 12 AM,I prefer studying in silence,"Flexible, can adjust",Vegetarian,Yes,Ambivert,,Very flexible,11,-1,49
+10/11/2025 09:41:00,Ragul S,24EEE783,EEE,10 PM – 12 AM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,Asthma,Very flexible,11,1,49
+10/08/2025 09:08:00,Vijay Kumar,24CSE938,CSE,After 12 AM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Vegetarian,No,Introvert,Dust allergy,Somewhat flexible,11,2,49
+10/11/2025 22:44:00,Logesh Kumar,24EEE478,EEE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Vegetarian,Yes,Ambivert,Diabetes,Somewhat flexible,11,3,117
+10/17/2025 15:43:00,Gopi Nath,24IT959,IT,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,NIL,Very flexible,11,-1,120
+10/12/2025 05:23:00,Vimal Raj,24IT889,IT,After 12 AM,I prefer studying in silence,"Flexible, can adjust",Vegetarian,Yes,Introvert,Diabetes,Somewhat flexible,11,3,162
+10/13/2025 00:21:00,Vijay Anand,24CSE967,CSE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Vegetarian,Yes,Ambivert,Diabetes,Somewhat flexible,11,3,162
+10/09/2025 15:39:00,Rajeshwaran,24PHY144,Physics,Before 10 PM,I prefer group study,"Flexible, can adjust",Vegetarian,Yes,Ambivert,,Very flexible,11,-1,162
+10/19/2025 18:01:00,Gokul Raj,24CHE894,Chemistry,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,NIL,Somewhat flexible,11,-1,162
+10/01/2025 09:50:00,Sivakumar P,24CHE392,Chemistry,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Vegetarian,Yes,Ambivert,Dust allergy,Somewhat flexible,11,2,118
+10/02/2025 07:44:00,Sundar P,24CSE810,CSE,After 12 AM,I prefer group study,"Flexible, can adjust",Vegan,Yes,Ambivert,,Somewhat flexible,11,-1,118
+10/04/2025 01:08:00,Sivakumar P,24EEE770,EEE,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,No,Very flexible,11,-1,118
+10/06/2025 09:39:00,Lokeshwaran,24MEC882,Mechatronics,10 PM – 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Vegetarian,Yes,Ambivert,Nil,Somewhat flexible,11,-1,118
+10/19/2025 16:52:00,Mathesh R,24CHE671,Chemistry,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Vegetarian,Yes,Ambivert,Diabetes,Very flexible,11,3,163
+10/04/2025 08:14:00,Karthikeyan A,24EEE974,EEE,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Introvert,Diabetes,Somewhat flexible,11,3,163
+10/03/2025 06:52:00,Sivaranjan,24CHE237,Chemistry,After 12 AM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Vegan,Yes,Ambivert,No,Very flexible,11,-1,163
+10/21/2025 22:07:00,Vimal Raj,24EIE592,EIE,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,Asthma,Somewhat flexible,11,1,50
+10/06/2025 20:58:00,Kavin Raj,24EEE899,EEE,Before 10 PM,I prefer group study,"Flexible, can adjust",Vegetarian,No,Ambivert,No,Somewhat flexible,11,-1,50
+10/08/2025 04:21:00,Deepak S,24AIM750,AIML,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,,Somewhat flexible,11,-1,50
+10/20/2025 01:57:00,Elango,24MEC525,Mechatronics,After 12 AM,I prefer group study,"Flexible, can adjust",Vegetarian,Yes,Introvert,,Somewhat flexible,11,-1,50
+10/14/2025 18:02:00,Ashok Kumar,24CHE687,Chemistry,Before 10 PM,I prefer group study,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,Nil,Somewhat flexible,11,-1,163
+10/03/2025 06:01:00,Rajeshwaran,24PHY477,Physics,10 PM – 12 AM,I prefer studying in silence,"Flexible, can adjust",Vegetarian,No,Introvert,Nil,Somewhat flexible,11,-1,193
+10/14/2025 03:23:00,Hariharan,24MEC817,Mechanical,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Vegetarian,Yes,Ambivert,Dust allergy,Somewhat flexible,11,2,119
+10/06/2025 20:27:00,Sivaranjan,24CHE465,Chemistry,After 12 AM,I prefer group study,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Introvert,,Somewhat flexible,11,-1,119
+10/19/2025 03:44:00,Mathesh R,24AIM670,AIML,10 PM – 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,No,Somewhat flexible,11,-1,119
+10/19/2025 13:23:00,Vijay Anand,24AIM986,AIML,10 PM – 12 AM,I prefer group study,"Flexible, can adjust",Vegetarian,Yes,Ambivert,No,Somewhat flexible,11,-1,119
+10/20/2025 13:47:00,Ashok Kumar,24AIM912,AIML,Before 10 PM,I prefer group study,"Flexible, can adjust",Vegetarian,No,Ambivert,NIL,Somewhat flexible,11,-1,194
+10/02/2025 09:04:00,Yogesh Kumar,24MEC379,Mechatronics,10 PM – 12 AM,I prefer group study,"Flexible, can adjust, Okay with some noise",Vegetarian,No,Ambivert,,Very flexible,11,-1,194
+10/16/2025 02:01:00,Balaji D,24CHE466,Chemistry,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,Nil,Very flexible,11,-1,194
+10/03/2025 15:11:00,Murugan A,24PHY985,Physics,Before 10 PM,I prefer group study,"Flexible, can adjust",Vegetarian,Yes,Extrovert,No,Very flexible,11,-1,194
+10/21/2025 05:02:00,Vignesh R,24PHY918,Physics,After 12 AM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Extrovert,Nil,Somewhat flexible,11,-1,195
+10/02/2025 17:19:00,Muthukumar S,24AIM999,AIML,Before 10 PM,I prefer group study,"Flexible, can adjust",Vegetarian,Yes,Ambivert,,Somewhat flexible,11,-1,195
+10/14/2025 04:25:00,Ajith Kumar,24IT122,IT,After 12 AM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Vegan,Yes,Ambivert,Dust allergy,Somewhat flexible,11,2,120
+10/13/2025 00:28:00,Karthick Raj,24ECE840,ECE,Before 10 PM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Vegetarian,Yes,Ambivert,Asthma,Somewhat flexible,11,1,51
+10/08/2025 09:35:00,Karthikeyan A,24MEC160,Mechatronics,After 12 AM,I prefer studying in silence,"Flexible, can adjust",Vegan,Yes,Ambivert,Nil,Somewhat flexible,11,-1,51
+10/18/2025 01:46:00,Lokesh P,24CSE879,CSE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Vegetarian,Yes,Introvert,Diabetes,Somewhat flexible,11,3,51
+10/11/2025 15:45:00,Vimal Raj,24ECE522,ECE,10 PM – 12 AM,I prefer studying in silence,"Flexible, can adjust, Okay with some noise",Vegetarian,No,Extrovert,Dust allergy,Somewhat flexible,11,2,51

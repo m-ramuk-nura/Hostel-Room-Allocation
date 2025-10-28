@@ -1,0 +1,55 @@
+Timestamp,Name:,Roll Number:,Department,What is your sleeping pattern?,What is your study habit preference?,What kind of sleeping environment do you prefer?,What is your food preference?,Are you comfortable sharing a room with someone with a different food habit?,Do you consider yourself more of an:,Do you have any health conditions or allergies your roommate should know?  (If no enter 'Nil'),How open are you to adjusting if you don’t get roomate of similar choice?,Cluster,Health_Condition_Rank,room_number
+10/19/2025 10:07:00,Vasanth Kumar,24MEC832,Mechatronics,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,No,Introvert,,Very flexible,4,-1,181
+10/02/2025 15:28:00,Sathish Kumar,24EEE234,EEE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Extrovert,No,Very flexible,4,-1,181
+10/04/2025 18:29:00,Aravind Raj,24EIE185,EIE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,No,Extrovert,No,Very flexible,4,-1,181
+10/07/2025 07:33:00,Mohan Das,24BIO400,Biotechnology,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,No,Ambivert,,Somewhat flexible,4,-1,181
+10/03/2025 03:16:00,Gopi Nath,24CSE814,CSE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,Nil,Very flexible,4,-1,182
+10/09/2025 21:11:00,Elango,24BIO158,Biotechnology,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,No,Introvert,Asthma,Somewhat flexible,4,1,21
+10/19/2025 01:46:00,Kishore R,24BIO823,Biotechnology,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,NIL,Somewhat flexible,4,-1,21
+10/18/2025 14:20:00,Karthick Raj,24MEC586,Mechanical,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,No,Ambivert,Dust allergy,Somewhat flexible,4,2,21
+10/20/2025 02:17:00,Lokesh P,24EIE343,EIE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,Dust allergy,Very flexible,4,2,21
+10/17/2025 10:56:00,Saran Raj,24MEC252,Mechanical,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Vegan,Yes,Extrovert,,Very flexible,4,-1,182
+10/02/2025 19:17:00,Vinoth Kumar,24EEE960,EEE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,No,Somewhat flexible,4,-1,182
+10/11/2025 00:15:00,Prem Kumar,24CHE145,Chemistry,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Diabetes,Somewhat flexible,4,3,149
+10/01/2025 16:58:00,Bala Subramani,24CHE734,Chemistry,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Diabetes,Very flexible,4,3,149
+10/13/2025 16:22:00,Prasanna Kumar,24PHY803,Physics,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,NIL,Somewhat flexible,4,-1,149
+10/16/2025 23:54:00,Krishna Raj,24EEE726,EEE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,Diabetes,Somewhat flexible,4,3,149
+10/11/2025 02:37:00,Harish G,24EIE532,EIE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,No,Ambivert,Dust allergy,Somewhat flexible,4,2,100
+10/08/2025 22:47:00,Arunkumar L,24AIM231,AIML,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,No,Somewhat flexible,4,-1,100
+10/19/2025 16:29:00,Karthik S,24PHY379,Physics,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,No,Extrovert,Diabetes,Not flexible,4,3,100
+10/05/2025 15:18:00,Ragul Raj,24CSE612,CSE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,No,Extrovert,Dust allergy,Very flexible,4,2,100
+10/18/2025 06:55:00,Ragul Raj,24CHE960,Chemistry,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,,Somewhat flexible,4,-1,182
+10/09/2025 18:30:00,Sathish K,24AIM866,AIML,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,No,Very flexible,4,-1,183
+10/05/2025 01:45:00,Ragul Deep,24CHE587,Chemistry,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,No,Ambivert,Asthma,Somewhat flexible,4,1,22
+10/12/2025 19:03:00,Karthik S,24CSE296,CSE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Extrovert,Diabetes,Very flexible,4,3,22
+10/18/2025 05:37:00,Selvakumar R,24ECE628,ECE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Dust allergy,Very flexible,4,2,22
+10/14/2025 01:38:00,Elango,24IT406,IT,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,Asthma,Somewhat flexible,4,1,22
+10/10/2025 01:24:00,Yuvaraj,24CHE804,Chemistry,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,No,Somewhat flexible,4,-1,183
+10/13/2025 04:27:00,Bharath Raj,24EIE737,EIE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",No preference,Yes,Introvert,Asthma,Somewhat flexible,4,1,23
+10/19/2025 18:17:00,Jagadeesh,24MEC198,Mechatronics,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",No preference,Yes,Introvert,Dust allergy,Very flexible,4,2,23
+10/16/2025 20:28:00,Nandhakumar,24AIM435,AIML,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,No,Ambivert,NIL,Very flexible,4,-1,23
+10/18/2025 16:33:00,Karthikeyan A,24AIM869,AIML,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Extrovert,Asthma,Somewhat flexible,4,1,23
+10/12/2025 10:15:00,Saravanan M,24BIO507,Biotechnology,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,Dust allergy,Very flexible,4,2,101
+10/02/2025 15:34:00,Pandi Kumar,24EIE301,EIE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,,Somewhat flexible,4,-1,101
+10/03/2025 13:03:00,Murugan A,24MEC569,Mechatronics,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,Dust allergy,Very flexible,4,2,101
+10/20/2025 12:20:00,Kamalakannan,24EIE810,EIE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,Diabetes,Very flexible,4,3,101
+10/02/2025 09:37:00,Logesh Kumar,24EIE358,EIE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Introvert,No,Very flexible,4,-1,183
+10/12/2025 09:13:00,Suresh Babu,24EEE531,EEE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",No preference,No,Introvert,NIL,Very flexible,4,-1,183
+10/03/2025 23:56:00,Suresh Babu,24ECE156,ECE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,Asthma,Very flexible,4,1,24
+10/06/2025 17:42:00,Karthick Raj,24EIE138,EIE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,No,Ambivert,,Very flexible,4,-1,24
+10/15/2025 15:20:00,Vijay Anand,24AIM835,AIML,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Ambivert,,Very flexible,4,-1,24
+10/01/2025 15:08:00,Kishore R,24MEC157,Mechatronics,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Ambivert,Diabetes,Very flexible,4,3,24
+10/06/2025 22:35:00,Selvakumar R,24EEE981,EEE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,No,Ambivert,Asthma,Not flexible,4,1,25
+10/02/2025 20:22:00,Kavin Kumar,24MEC682,Mechatronics,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Diabetes,Very flexible,4,3,25
+10/17/2025 09:29:00,Yuvaraj,24MEC585,Mechatronics,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Extrovert,NIL,Somewhat flexible,4,-1,25
+10/04/2025 08:50:00,Santhosh K,24EIE511,EIE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,Nil,Not flexible,4,-1,25
+10/08/2025 17:38:00,Yogesh Kumar,24CSE260,CSE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",No preference,Yes,Ambivert,,Somewhat flexible,4,-1,184
+10/09/2025 01:13:00,Balamurugan,24PHY155,Physics,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Asthma,Somewhat flexible,4,1,26
+10/08/2025 08:31:00,Saravanan M,24ECE878,ECE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,,Very flexible,4,-1,26
+10/03/2025 13:12:00,Sundar P,24PHY613,Physics,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,Asthma,Somewhat flexible,4,1,26
+10/01/2025 21:52:00,Nandhakumar,24EEE794,EEE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Dust allergy,Somewhat flexible,4,2,26
+10/16/2025 15:23:00,Anbarasan,24EEE599,EEE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Ambivert,Asthma,Very flexible,4,1,27
+10/06/2025 23:09:00,Jagadeesh,24CSE296,CSE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Introvert,Diabetes,Somewhat flexible,4,3,27
+10/04/2025 15:34:00,Saran Raj,24EIE431,EIE,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust",Non-Vegetarian,Yes,Extrovert,,Somewhat flexible,4,-1,27
+10/02/2025 05:25:00,Prasanna Kumar,24CHE124,Chemistry,Before 10 PM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,No,Extrovert,,Very flexible,4,-1,27
+10/02/2025 11:37:00,Jagadeesh,24ECE887,ECE,After 12 AM,I’m okay with mild background noise/music,"Flexible, can adjust, Okay with some noise",Non-Vegetarian,Yes,Ambivert,No,Very flexible,4,-1,184

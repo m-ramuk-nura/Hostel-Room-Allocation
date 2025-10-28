@@ -1,0 +1,33 @@
+Timestamp,Name:,Roll Number:,Department,What is your sleeping pattern?,What is your study habit preference?,What kind of sleeping environment do you prefer?,What is your food preference?,Are you comfortable sharing a room with someone with a different food habit?,Do you consider yourself more of an:,Do you have any health conditions or allergies your roommate should know?  (If no enter 'Nil'),How open are you to adjusting if you don’t get roomate of similar choice?,Cluster,Health_Condition_Rank,room_number
+10/10/2025 10:19:00,Sanjay Kumar,24ECE956,ECE,Before 10 PM,I prefer studying in silence,Okay with some noise,Non-Vegetarian,No,Extrovert,Dust allergy,Not flexible,7,2,36
+10/06/2025 11:45:00,Ravi M,24PHY167,Physics,After 12 AM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Ambivert,NIL,Very flexible,7,-1,36
+10/18/2025 20:11:00,Sundar P,24BIO869,Biotechnology,Before 10 PM,I prefer studying in silence,Okay with some noise,Non-Vegetarian,Yes,Introvert,Asthma,Not flexible,7,1,34
+10/12/2025 20:21:00,Sundar P,24ECE766,ECE,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Ambivert,Dust allergy,Somewhat flexible,7,2,34
+10/12/2025 01:09:00,Deepak S,24CSE626,CSE,After 12 AM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Introvert,Asthma,Somewhat flexible,7,1,34
+10/08/2025 04:02:00,Anbarasan,24PHY712,Physics,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Ambivert,Diabetes,Very flexible,7,3,34
+10/10/2025 18:47:00,Vignesh R,24IT557,IT,Before 10 PM,I prefer studying in silence,Okay with some noise,Non-Vegetarian,No,Extrovert,Diabetes,Very flexible,7,3,36
+10/03/2025 09:59:00,Ragul Raj,24EEE758,EEE,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Introvert,Dust allergy,Very flexible,7,2,106
+10/08/2025 04:39:00,Sanjay Kumar,24ECE753,ECE,After 12 AM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,No,Ambivert,Diabetes,Somewhat flexible,7,3,106
+10/13/2025 07:32:00,Surya Narayanan,24MEC993,Mechatronics,After 12 AM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Introvert,Dust allergy,Very flexible,7,2,106
+10/19/2025 17:01:00,Karthick Raj,24PHY701,Physics,After 12 AM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Introvert,Nil,Somewhat flexible,7,-1,106
+10/07/2025 03:46:00,Yogesh Kumar,24BIO680,Biotechnology,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,No preference,Yes,Ambivert,No,Very flexible,7,-1,108
+10/21/2025 21:53:00,Pandi Kumar,24MEC172,Mechanical,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Ambivert,NIL,Very flexible,7,-1,108
+10/09/2025 11:09:00,Nandhakumar,24MEC518,Mechanical,Before 10 PM,I prefer studying in silence,Okay with some noise,Non-Vegetarian,No,Ambivert,,Very flexible,7,-1,108
+10/14/2025 00:34:00,Gokul Raj,24ECE482,ECE,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Ambivert,No,Somewhat flexible,7,-1,152
+10/19/2025 00:44:00,Vijay Anand,24CSE958,CSE,Before 10 PM,I prefer studying in silence,Okay with some noise,Non-Vegetarian,No,Introvert,NIL,Very flexible,7,-1,153
+10/06/2025 08:19:00,Rajeshwaran,24MEC964,Mechanical,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,No,Extrovert,No,Somewhat flexible,7,-1,186
+10/17/2025 07:33:00,Vignesh R,24BIO760,Biotechnology,After 12 AM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Ambivert,No,Very flexible,7,-1,186
+10/04/2025 11:54:00,Karthikeyan A,24MEC890,Mechanical,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,No,Extrovert,No,Somewhat flexible,7,-1,186
+10/09/2025 11:51:00,Deepak S,24EIE461,EIE,Before 10 PM,I prefer studying in silence,Okay with some noise,Non-Vegetarian,Yes,Ambivert,Diabetes,Very flexible,7,3,153
+10/06/2025 22:57:00,Ajith Kumar,24IT613,IT,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,Vegan,No,Introvert,Diabetes,Somewhat flexible,7,3,153
+10/15/2025 09:21:00,Karthik S,24AIM804,AIML,After 12 AM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Introvert,No,Somewhat flexible,7,-1,153
+10/14/2025 07:56:00,Prasanna Kumar,24CSE191,CSE,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Extrovert,Dust allergy,Very flexible,7,2,107
+10/11/2025 01:30:00,Prem Kumar,24ECE701,ECE,Before 10 PM,I prefer studying in silence,Okay with some noise,Non-Vegetarian,Yes,Ambivert,Nil,Very flexible,7,-1,107
+10/03/2025 13:39:00,Ashok Kumar,24MEC821,Mechatronics,Before 10 PM,I prefer studying in silence,Okay with some noise,Non-Vegetarian,Yes,Extrovert,Asthma,Very flexible,7,1,35
+10/16/2025 04:20:00,Saravanan M,24ECE530,ECE,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Ambivert,Asthma,Somewhat flexible,7,1,35
+10/09/2025 14:30:00,Tharun Raj,24MEC537,Mechatronics,Before 10 PM,I prefer studying in silence,Okay with some noise,Non-Vegetarian,No,Ambivert,Nil,Somewhat flexible,7,-1,35
+10/16/2025 05:34:00,Ashok Kumar,24IT322,IT,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,No preference,Yes,Extrovert,Diabetes,Somewhat flexible,7,3,35
+10/03/2025 18:53:00,Murugan A,24MEC470,Mechatronics,After 12 AM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Extrovert,Dust allergy,Somewhat flexible,7,2,107
+10/16/2025 23:24:00,Karthikeyan A,24ECE900,ECE,After 12 AM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,No,Extrovert,NIL,Somewhat flexible,7,-1,107
+10/20/2025 02:23:00,Vasanth Kumar,24EIE450,EIE,Before 10 PM,I’m okay with mild background noise/music,Okay with some noise,Non-Vegetarian,Yes,Ambivert,Dust allergy,Very flexible,7,2,108
+10/04/2025 00:15:00,Vinoth Kumar,24MEC342,Mechatronics,Before 10 PM,I prefer studying in silence,Okay with some noise,Non-Vegetarian,Yes,Ambivert,Asthma,Somewhat flexible,7,1,36

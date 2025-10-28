@@ -1,0 +1,22 @@
+Timestamp,Name:,Roll Number:,Department,What is your sleeping pattern?,What is your study habit preference?,What kind of sleeping environment do you prefer?,What is your food preference?,Are you comfortable sharing a room with someone with a different food habit?,Do you consider yourself more of an:,Do you have any health conditions or allergies your roommate should know?  (If no enter 'Nil'),How open are you to adjusting if you don’t get roomate of similar choice?,Cluster,Health_Condition_Rank,room_number
+10/4/2025 14:53:23,Prasanna Kumar S,7376231EI134,EIE,10 PM – 12 AM,I’m okay with mild background noise/music,"Complete darkness, Okay with some noise",Non-Vegetarian,Yes,Ambivert,Nil,Somewhat flexible,1,-1,175
+10/17/2025 16:46:00,Kavin Kumar,24MEC102,Mechatronics,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Ambivert,Dust allergy,Very flexible,1,2,94
+10/01/2025 23:10:00,Nithesh,24AIM105,AIML,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,No,Ambivert,NIL,Very flexible,1,-1,94
+10/21/2025 09:32:00,Prasanna Kumar,24CHE447,Chemistry,10 PM – 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Extrovert,,Very flexible,1,-1,94
+10/11/2025 20:43:00,Prem Kumar,24CHE716,Chemistry,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Ambivert,Nil,Not flexible,1,-1,94
+10/19/2025 03:08:00,Madhan Kumar,24PHY460,Physics,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Ambivert,Diabetes,Very flexible,1,3,142
+10/18/2025 01:23:00,Lokeshwaran,24MEC169,Mechanical,10 PM – 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Introvert,Asthma,Somewhat flexible,1,1,6
+10/15/2025 23:11:00,Prasanna Kumar,24MEC851,Mechanical,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Introvert,No,Somewhat flexible,1,-1,6
+10/10/2025 09:11:00,Vinoth Kumar,24ECE257,ECE,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Introvert,Dust allergy,Not flexible,1,2,6
+10/06/2025 09:57:00,Vasanth Kumar,24IT100,IT,10 PM – 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Ambivert,Dust allergy,Very flexible,1,2,6
+10/10/2025 00:55:00,Karthikeyan A,24EIE748,EIE,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Ambivert,Asthma,Somewhat flexible,1,1,7
+10/19/2025 15:15:00,Yogesh Kumar,24AIM229,AIML,10 PM – 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Extrovert,No,Very flexible,1,-1,7
+10/20/2025 08:39:00,Suresh Babu,24AIM928,AIML,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,No,Introvert,,Very flexible,1,-1,7
+10/18/2025 03:26:00,Sivakumar P,24PHY253,Physics,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Ambivert,,Very flexible,1,-1,7
+10/21/2025 17:03:00,Sanjay Kumar,24BIO422,Biotechnology,10 PM – 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Extrovert,Nil,Very flexible,1,-1,142
+10/17/2025 02:51:00,Manikandan S,24PHY437,Physics,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Vegan,Yes,Introvert,Nil,Very flexible,1,-1,142
+10/09/2025 03:53:00,Gopi Nath,24MEC104,Mechanical,10 PM – 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Introvert,Diabetes,Very flexible,1,3,142
+10/12/2025 06:33:00,Vinoth Kumar,24PHY132,Physics,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Introvert,Dust allergy,Somewhat flexible,1,2,95
+10/03/2025 11:54:00,Sanjay Kumar,24CHE583,Chemistry,After 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Introvert,Diabetes,Very flexible,1,3,95
+10/10/2025 16:33:00,Ganesh Kumar,24EIE756,EIE,10 PM – 12 AM,I’m okay with mild background noise/music,Complete darkness,Non-Vegetarian,Yes,Introvert,NIL,Somewhat flexible,1,-1,95
+10/06/2025 09:30:00,Hariharan,24MEC449,Mechatronics,10 PM – 12 AM,I’m okay with mild background noise/music,Complete darkness,No preference,Yes,Ambivert,Diabetes,Somewhat flexible,1,3,95
